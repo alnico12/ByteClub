@@ -1,0 +1,66 @@
+body {
+    font: 20px Oxygen, sans-serif;
+    line-height: 1.8;
+    color: #2e3092;
+}
+p {font-size: 16px;}
+.margin {margin-bottom: 45px;}
+.bg-1 {
+    background-color: #ffffff; /* White */
+    color: #000000;
+    margin-top: 25px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+.myButton{
+    color:#7fb946;
+    border-style: solid;
+    border-color: #7fb946;
+    background-color:#ffffff;
+    text-decoration: none;
+    transition: none;
+}
+.myButton   a:hover {
+    color: #7fb946 !important;
+}
+.bg-2 {
+    background-color: #196fb7; /* Dark Blue */
+    color: #ffffff;
+}
+.grids {
+    background-color: #196fb7; /* Dark Blue */
+    color: #ffffff;
+}
+
+.bg-3 {
+    background-color: #ffffff; /* White */
+    color: #555555;
+}
+
+.container-fluid {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.bg-4 {
+    background-color: #eaedf1;
+    color: #196fb7;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.navbar {
+    padding-top: 10px;
+    padding-bottom: 0px;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+    background-color: #ffffff;
+
+}
+.navbar-nav  li a:hover {
+    color: #196fb7 !important;
+}
+span.glyphicon-arrow-right {
+    font-size: 3.0em;
+}
