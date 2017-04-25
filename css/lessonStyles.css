@@ -2,17 +2,15 @@ body {
     font: 20px Oxygen, sans-serif;
     line-height: 1.8;
     color: #2e3092;
+    background: #ffffff url("../resources/images/background2.png");
+    background-size: cover;
 }
+
 p {font-size: 16px;}
 .margin {margin-bottom: 45px;}
 .bg-1 {
-    background-color: #ffffff; /* White */
+    background-color: rgba(255, 255, 255, 1.0);
     color: #000000;
-    margin-top: 25px;
-    margin-bottom: 100px;
-    margin-left: 100px;
-    margin-right: 100px;
-
 }
 .myButton{
     color:#7fb946;
@@ -26,12 +24,12 @@ p {font-size: 16px;}
     color: #7fb946 !important;
 }
 .bg-2 {
-    background-color: #196fb7; /* Dark Blue */
-    color: #ffffff;
-}
-.grids {
-    background-color: #196fb7; /* Dark Blue */
-    color: #ffffff;
+    color: #196fb7;
+    background-color: rgba(255, 2255, 255, 1.0);
+    border: 1px solid #84878b;
+    margin-bottom: 30px;
+    margin-top: -30px;
+    padding-top: 0px;
 }
 
 .bg-3 {
@@ -40,27 +38,45 @@ p {font-size: 16px;}
 }
 
 .container-fluid {
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 70px;
+    padding-bottom: 70px;
 }
 .bg-4 {
     background-color: #eaedf1;
     color: #196fb7;
-    padding-top: 0;
-    padding-bottom: 0;
-}
-.navbar {
-    padding-top: 8px;
+    padding-top: 0px;
     padding-bottom: 0px;
+}
+
+
+.navbar {
+    padding-top: 10px;
+    padding-bottom: 10px;
     margin-bottom: 0;
     font-size: 12px;
     letter-spacing: 5px;
     background-color: #ffffff;
-
 }
 .navbar-nav  li a:hover {
     color: #196fb7 !important;
 }
+
+.yt-container {
+    position:relative;
+    padding-bottom:56.25%;
+    padding-top:30px;
+    height:0;
+    overflow:hidden;
+}
+
+.yt-container iframe, .yt-container object, .yt-container embed {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+}
+
 span.glyphicon-arrow-right {
     font-size: 3.0em;
 }
