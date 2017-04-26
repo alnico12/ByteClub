@@ -2,7 +2,7 @@ body {
     font: 20px Oxygen, sans-serif;
     line-height: 1.8;
     color: #2e3092;
-    background: #ffffff url("../resources/images/background2.png");
+    background: #ffffff;
     background-size: cover;
 }
 
@@ -18,6 +18,7 @@ p {font-size: 16px;}
     border-color: #7fb946;
     background-color:#ffffff;
     text-decoration: none;
+    margin-top: -80px;
     transition: none;
 }
 .myButton   a:hover {
@@ -30,6 +31,26 @@ p {font-size: 16px;}
     margin-bottom: 30px;
     margin-top: -30px;
     padding-top: 0px;
+}
+
+#ex-con {
+    text-align: center;
+    margin-top: 4%;
+    padding-top: 20px;
+    font-size: 60px;
+    border-top: solid;
+    border-width: 3px;
+    background-color:#196fb7;
+    color: #ffffff;
+}
+
+#def-con {
+    text-align: center;
+    margin-top: 4%;
+    padding-top: 20px;
+    font-size: 60px;
+    background-color:#ffffff;
+    color: #196fb7;
 }
 
 .bg-3 {
@@ -48,14 +69,51 @@ p {font-size: 16px;}
     padding-bottom: 0px;
 }
 
+.ex-title{
 
+    padding-top: 2%;
+    text-align: center;
+    font-size: 50px ;
+}
+
+#define{
+    align-items: center;
+
+    color: #636c72;
+    font-style: italic;
+    font-size: xx-large;
+    text-align: left;
+    padding-bottom: 2%;
+    padding-top: 2%;
+
+    padding-left: 8%;
+    padding-right: 8%;
+
+    margin-top: 2%;
+    margin-bottom: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+#define d{
+    color: black;
+    font-style: normal;
+    margin: 10px;
+    font-size: x-large;
+}
+
+trink-frame{
+    margin: 10%;
+}
 .navbar {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
     margin-bottom: 0;
     font-size: 12px;
     letter-spacing: 5px;
     background-color: #ffffff;
+    border-bottom: 1px solid #84878b
 }
 .navbar-nav  li a:hover {
     color: #196fb7 !important;
