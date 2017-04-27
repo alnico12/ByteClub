@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc7e6a1d-66ba-4669-bb5f-c0faab0a3094" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loops2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/loops3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pythonVar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/variableLoop.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eventsPython.html" afterPath="$PROJECT_DIR$/eventsPython.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/loops.html" afterPath="$PROJECT_DIR$/loops.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/variables.html" afterPath="$PROJECT_DIR$/variables.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exGame.html" afterPath="$PROJECT_DIR$/exGame.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,11 +79,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="variables.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="variables.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/variables.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="952">
-              <caret line="56" column="33" lean-forward="true" selection-start-line="56" selection-start-column="33" selection-end-line="56" selection-end-column="33" />
+            <state relative-caret-position="340">
+              <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -125,6 +119,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="exGame.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exGame.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="57" column="68" lean-forward="false" selection-start-line="57" selection-start-column="68" selection-end-line="57" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="loops.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/loops.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -141,18 +145,6 @@
             <state relative-caret-position="381">
               <caret line="60" column="53" lean-forward="true" selection-start-line="60" selection-start-column="53" selection-end-line="60" selection-end-column="53" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="conditionals.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conditionals.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="60" column="55" lean-forward="false" selection-start-line="60" selection-start-column="55" selection-end-line="60" selection-end-column="55" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -190,7 +182,6 @@
         <option value="$PROJECT_DIR$/events.html" />
         <option value="$PROJECT_DIR$/events2.html" />
         <option value="$PROJECT_DIR$/conditionals.html" />
-        <option value="$PROJECT_DIR$/exGame.html" />
         <option value="$PROJECT_DIR$/functions.html" />
         <option value="$PROJECT_DIR$/game.html" />
         <option value="$PROJECT_DIR$/lessonList.html" />
@@ -201,6 +192,7 @@
         <option value="$PROJECT_DIR$/variableLoop.html" />
         <option value="$PROJECT_DIR$/pythonVar.html" />
         <option value="$PROJECT_DIR$/variables.html" />
+        <option value="$PROJECT_DIR$/exGame.html" />
       </list>
     </option>
   </component>
@@ -854,7 +846,7 @@
       <updated>1493149989990</updated>
       <workItem from="1493149996086" duration="19039000" />
       <workItem from="1493258886382" duration="8228000" />
-      <workItem from="1493303926753" duration="2928000" />
+      <workItem from="1493303926753" duration="3214000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1493150572069</created>
@@ -874,7 +866,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30195000" />
+    <option name="totallyTimeSpent" value="30481000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -886,8 +878,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="874" extended-state="1" />
-    <editor active="false" />
+    <frame x="0" y="22" width="1440" height="874" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.49499285" order="6" side_tool="false" content_ui="tabs" />
@@ -1281,14 +1273,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exGame.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="60" column="41" lean-forward="false" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conditionals.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
@@ -1395,8 +1379,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/variables.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="56" column="33" lean-forward="true" selection-start-line="56" selection-start-column="33" selection-end-line="56" selection-end-column="33" />
+        <state relative-caret-position="340">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exGame.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="57" column="68" lean-forward="false" selection-start-line="57" selection-start-column="68" selection-end-line="57" selection-end-column="68" />
           <folding />
         </state>
       </provider>
